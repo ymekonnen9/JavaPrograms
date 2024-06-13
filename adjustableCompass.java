@@ -1,4 +1,4 @@
-package chap01.sec01;
+package chap01.JavaPrograms;
 import java.util.Arrays;
 import java.util.Scanner;
 enum Directions {N, W, S, E}

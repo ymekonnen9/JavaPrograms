@@ -1,4 +1,4 @@
-package chap01.sec01;
+package chap01.JavaPrograms;
 import java.util.Scanner;
 
 public class greatestOfThree {

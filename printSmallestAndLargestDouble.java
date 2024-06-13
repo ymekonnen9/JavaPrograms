@@ -1,4 +1,4 @@
-package chap01.sec01;
+package chap01.JavaPrograms;
 
 public class printSmallestAndLargestDouble {
     public static void main(String[] args){
