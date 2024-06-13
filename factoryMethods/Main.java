@@ -3,7 +3,7 @@ package factoryMethods;
 
 public class Main{
     public static void main(String[] args){
-        Shape shape = ShapeFactory.createShape("circle");
+        Shape shape = Shape.createShape("circle");
         shape.draw();
     }
 }
